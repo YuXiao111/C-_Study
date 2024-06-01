@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TestEventAggregator_loj4ryeo_wpftmp
+build_property.ProjectDir = E:\.Net\WPF_Study【B站】\Multitude\WPF\1.MVVM中ViewModel之间建立通信\TestEventAggregator\TestEventAggregator\
