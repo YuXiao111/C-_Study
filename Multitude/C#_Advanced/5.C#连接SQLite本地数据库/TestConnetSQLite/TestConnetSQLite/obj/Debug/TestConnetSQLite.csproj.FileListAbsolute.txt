@@ -1,0 +1,16 @@
+E:\.Net\WPF_Study【git仓库】\Multitude\C#_Advanced\5.C#连接SQLite本地数据库\TestConnetSQLite\TestConnetSQLite\bin\Debug\TestConnetSQLite.exe.config
+E:\.Net\WPF_Study【git仓库】\Multitude\C#_Advanced\5.C#连接SQLite本地数据库\TestConnetSQLite\TestConnetSQLite\bin\Debug\TestConnetSQLite.exe
+E:\.Net\WPF_Study【git仓库】\Multitude\C#_Advanced\5.C#连接SQLite本地数据库\TestConnetSQLite\TestConnetSQLite\bin\Debug\TestConnetSQLite.pdb
+E:\.Net\WPF_Study【git仓库】\Multitude\C#_Advanced\5.C#连接SQLite本地数据库\TestConnetSQLite\TestConnetSQLite\bin\Debug\EntityFramework.dll
+E:\.Net\WPF_Study【git仓库】\Multitude\C#_Advanced\5.C#连接SQLite本地数据库\TestConnetSQLite\TestConnetSQLite\bin\Debug\EntityFramework.SqlServer.dll
+E:\.Net\WPF_Study【git仓库】\Multitude\C#_Advanced\5.C#连接SQLite本地数据库\TestConnetSQLite\TestConnetSQLite\bin\Debug\System.Data.SQLite.dll
+E:\.Net\WPF_Study【git仓库】\Multitude\C#_Advanced\5.C#连接SQLite本地数据库\TestConnetSQLite\TestConnetSQLite\bin\Debug\System.Data.SQLite.EF6.dll
+E:\.Net\WPF_Study【git仓库】\Multitude\C#_Advanced\5.C#连接SQLite本地数据库\TestConnetSQLite\TestConnetSQLite\bin\Debug\System.Data.SQLite.Linq.dll
+E:\.Net\WPF_Study【git仓库】\Multitude\C#_Advanced\5.C#连接SQLite本地数据库\TestConnetSQLite\TestConnetSQLite\bin\Debug\EntityFramework.xml
+E:\.Net\WPF_Study【git仓库】\Multitude\C#_Advanced\5.C#连接SQLite本地数据库\TestConnetSQLite\TestConnetSQLite\bin\Debug\EntityFramework.SqlServer.xml
+E:\.Net\WPF_Study【git仓库】\Multitude\C#_Advanced\5.C#连接SQLite本地数据库\TestConnetSQLite\TestConnetSQLite\bin\Debug\System.Data.SQLite.xml
+E:\.Net\WPF_Study【git仓库】\Multitude\C#_Advanced\5.C#连接SQLite本地数据库\TestConnetSQLite\TestConnetSQLite\obj\Debug\TestConnetSQLite.csproj.AssemblyReference.cache
+E:\.Net\WPF_Study【git仓库】\Multitude\C#_Advanced\5.C#连接SQLite本地数据库\TestConnetSQLite\TestConnetSQLite\obj\Debug\TestConnetSQLite.csproj.CoreCompileInputs.cache
+E:\.Net\WPF_Study【git仓库】\Multitude\C#_Advanced\5.C#连接SQLite本地数据库\TestConnetSQLite\TestConnetSQLite\obj\Debug\TestConnetSQLite.csproj.CopyComplete
+E:\.Net\WPF_Study【git仓库】\Multitude\C#_Advanced\5.C#连接SQLite本地数据库\TestConnetSQLite\TestConnetSQLite\obj\Debug\TestConnetSQLite.exe
+E:\.Net\WPF_Study【git仓库】\Multitude\C#_Advanced\5.C#连接SQLite本地数据库\TestConnetSQLite\TestConnetSQLite\obj\Debug\TestConnetSQLite.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConnetSQLite", "TestConnetSQLite\TestConnetSQLite.csproj", "{0C7C1A36-CBC1-4518-8B3F-B28C6406E181}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C7C1A36-CBC1-4518-8B3F-B28C6406E181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C7C1A36-CBC1-4518-8B3F-B28C6406E181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C7C1A36-CBC1-4518-8B3F-B28C6406E181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C7C1A36-CBC1-4518-8B3F-B28C6406E181}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67BAD346-A294-4D61-9D80-D3B712E208D3}
+	EndGlobalSection
+EndGlobal
