@@ -1,0 +1,47 @@
+﻿<Window x:Class="LanguageSwitching.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LanguageSwitching"
+
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <ComboBox HorizontalAlignment="Center"
+                  SelectedIndex="0"
+                  SelectionChanged="ComboBox_SelectionChanged">
+            <ComboBoxItem Tag="zh-cn">中文</ComboBoxItem>
+            <ComboBoxItem Tag="en-US">English</ComboBoxItem>
+            <ComboBoxItem Tag="ko-KR">한국어</ComboBoxItem>
+        </ComboBox>
+        <StackPanel Grid.Row="1"
+                    Margin="0,10"
+                    HorizontalAlignment="Center">
+            <TextBlock HorizontalAlignment="Center"
+                       Text="{Binding [NO1], Source={x:Static local:LanguageManager.Instance}}"  Width="200"/>
+            <Button Margin="10"
+                    Padding="20,10"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center"
+                    Content="{Binding [Key], Source={x:Static local:LanguageManager.Instance}}" />
+            <WrapPanel>
+                <WrapPanel Margin="0,0,15,0">
+                    <TextBlock Text="{Binding [Total], Source={x:Static local:LanguageManager.Instance}}" />
+                    <TextBlock Text="{Binding ElementName=_this, Path=Height, StringFormat=' {0} '}" />
+                    <TextBlock Text="{Binding [Items], Source={x:Static local:LanguageManager.Instance}}" />
+                </WrapPanel>
+
+                <WrapPanel>
+                    <TextBlock Text="{Binding [Items], Source={x:Static local:LanguageManager.Instance}}" />
+                    <TextBlock Text=" /  " />
+                    <TextBlock Text="{Binding [Page], Source={x:Static local:LanguageManager.Instance}}" />
+                </WrapPanel>
+            </WrapPanel>
+        </StackPanel>
+    </Grid>
+</Window>
