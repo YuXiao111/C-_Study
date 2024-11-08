@@ -1,0 +1,15 @@
+E:\.Net\WPF_Study【git仓库】\Me\1.文件安全性\Document Security\Document Security\bin\Debug\Document Security.exe.config
+E:\.Net\WPF_Study【git仓库】\Me\1.文件安全性\Document Security\Document Security\bin\Debug\Document Security.exe
+E:\.Net\WPF_Study【git仓库】\Me\1.文件安全性\Document Security\Document Security\bin\Debug\Document Security.pdb
+E:\.Net\WPF_Study【git仓库】\Me\1.文件安全性\Document Security\Document Security\obj\Debug\Document Security.csproj.AssemblyReference.cache
+E:\.Net\WPF_Study【git仓库】\Me\1.文件安全性\Document Security\Document Security\obj\Debug\MainWindow.g.cs
+E:\.Net\WPF_Study【git仓库】\Me\1.文件安全性\Document Security\Document Security\obj\Debug\App.g.cs
+E:\.Net\WPF_Study【git仓库】\Me\1.文件安全性\Document Security\Document Security\obj\Debug\Document Security_MarkupCompile.cache
+E:\.Net\WPF_Study【git仓库】\Me\1.文件安全性\Document Security\Document Security\obj\Debug\Document Security_MarkupCompile.lref
+E:\.Net\WPF_Study【git仓库】\Me\1.文件安全性\Document Security\Document Security\obj\Debug\MainWindow.baml
+E:\.Net\WPF_Study【git仓库】\Me\1.文件安全性\Document Security\Document Security\obj\Debug\Document Security.g.resources
+E:\.Net\WPF_Study【git仓库】\Me\1.文件安全性\Document Security\Document Security\obj\Debug\Document_Security.Properties.Resources.resources
+E:\.Net\WPF_Study【git仓库】\Me\1.文件安全性\Document Security\Document Security\obj\Debug\Document Security.csproj.GenerateResource.cache
+E:\.Net\WPF_Study【git仓库】\Me\1.文件安全性\Document Security\Document Security\obj\Debug\Document Security.csproj.CoreCompileInputs.cache
+E:\.Net\WPF_Study【git仓库】\Me\1.文件安全性\Document Security\Document Security\obj\Debug\Document Security.exe
+E:\.Net\WPF_Study【git仓库】\Me\1.文件安全性\Document Security\Document Security\obj\Debug\Document Security.pdb
