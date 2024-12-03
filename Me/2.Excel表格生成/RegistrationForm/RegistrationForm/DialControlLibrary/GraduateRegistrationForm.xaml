@@ -1,0 +1,732 @@
+﻿<UserControl x:Class="RegistrationForm.DialControlLibrary.GraduateRegistrationForm"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:RegistrationForm.DialControlLibrary"
+             mc:Ignorable="d"
+             d:DesignHeight="1050"
+             d:DesignWidth="800"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes">
+    <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition Height="300"/>
+            </Grid.RowDefinitions>
+
+            <Border CornerRadius="5"
+                    Width="750"
+                    Margin="20"
+                    Background="White"
+                    BorderBrush="#FFBBB7B7"
+                    BorderThickness="0">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="60"/>
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition />
+                        <ColumnDefinition />
+                        <ColumnDefinition />
+                        <ColumnDefinition />
+                        <ColumnDefinition />
+                    </Grid.ColumnDefinitions>
+                    <Border BorderBrush="#FFBBB7B7"                              
+                            BorderThickness="0,0,0,1"
+                            Margin="0"
+                            CornerRadius="5,5,0,0"
+                            Background="#d8dde8"
+                            Grid.RowSpan="1"                
+                            Grid.ColumnSpan="5">
+                        <StackPanel Orientation="Horizontal"
+                                    HorizontalAlignment="Center"
+                                    VerticalAlignment="Center"
+                                    TextBlock.TextAlignment="Center">
+                            <TextBlock Text="*"
+                                       Foreground="red"
+                                       VerticalAlignment="Center" />
+                            <TextBox  x:Name="TableName_Text"
+                                      Width="400"
+                                      Height="40"
+                                      FontSize="20"
+                                      FontWeight="Bold"
+                                      MaxLength="12"
+                                      VerticalContentAlignment="Center"
+                                      materialDesign:HintAssist.Hint="请输入表格名称"
+                                      Text="安徽师范大学毕业生登记表"
+                                      d:Text="安徽师范大学毕业生登记表">
+                            </TextBox>
+
+                            <TextBlock Text="*"
+                                       Foreground="Red"
+                                       VerticalAlignment="Center" 
+                                       Margin="100,0,0,0"/>
+                            <TextBox  x:Name="TableIteam_Text"
+                                      Width="150"
+                                      Height="40"
+                                      MaxLength="10"
+                                      VerticalContentAlignment="Center"
+                                      materialDesign:HintAssist.Hint="请输入工作簿名称"
+                                      Text="Iteam1"
+                                      d:Text="Iteam1" />
+                        </StackPanel>
+                    </Border>
+
+
+                    <!--第1行数据-->
+                    <Border BorderBrush="#FFBBB7B7"
+                            BorderThickness="0,0,0,1"
+                            Margin="0"
+                            Grid.RowSpan="1"
+                            Grid.Row="1"
+                            Grid.Column="0"
+                            Grid.ColumnSpan="1">
+                        <StackPanel Orientation="Horizontal"
+                                    HorizontalAlignment="Center"
+                                    VerticalAlignment="Center">
+                            <TextBlock  HorizontalAlignment="Center"
+                                        Margin="0"
+                                        Text="姓名"
+                                        VerticalAlignment="Center" />
+                        </StackPanel>
+                    </Border>
+                    <Border BorderBrush="#FFBBB7B7"
+                            BorderThickness="0,0,1,1"
+                            Margin="0"
+                            Grid.RowSpan="1"
+                            Grid.Row="1"
+                            Grid.Column="1"
+                            Grid.ColumnSpan="1">
+                        <StackPanel Orientation="Horizontal"
+                                    HorizontalAlignment="Center"
+                                    VerticalAlignment="Center">
+                            <TextBox Height="24"
+                                     Width="100"
+                                     VerticalAlignment="Center"
+                                     Text="{Binding m041_YL}"
+                                     HorizontalContentAlignment="Center" />
+                        </StackPanel>
+                    </Border>
+                    <Border BorderBrush="#FFBBB7B7"
+                            BorderThickness="0,0,0,1"
+                            Margin="0"
+                            Grid.RowSpan="1"
+                            Grid.Row="1"
+                            Grid.Column="2"
+                            Grid.ColumnSpan="1">
+                        <StackPanel Orientation="Horizontal"
+                                    HorizontalAlignment="Center"
+                                    VerticalAlignment="Center">
+                            <TextBlock  HorizontalAlignment="Center"
+                                        Margin="0"
+                                        Text="性别"
+                                        VerticalAlignment="Center" />
+                        </StackPanel>
+                    </Border>
+                    <Border BorderBrush="#FFBBB7B7"
+                            BorderThickness="0,0,1,1"
+                            Margin="0"
+                            Grid.RowSpan="1"
+                            Grid.Row="1"
+                            Grid.Column="3"
+                            Grid.ColumnSpan="1">
+                        <StackPanel Orientation="Horizontal"
+                                    HorizontalAlignment="Center"
+                                    VerticalAlignment="Center">
+                            <TextBox Grid.Column="1"
+                                     Height="24"
+                                     Grid.Row="1"
+                                     Width="100"
+                                     VerticalAlignment="Center"
+                                     Text="{Binding m043_XZ}"
+                                     HorizontalContentAlignment="Center" />
+                        </StackPanel>
+                    </Border>
+                    <Border BorderBrush="#FFBBB7B7"
+                            BorderThickness="0,0,0,1"
+                            Margin="0"
+                            Grid.RowSpan="1"
+                            Grid.Row="1"
+                            Grid.Column="4"
+                            Grid.ColumnSpan="1">
+                        <StackPanel Orientation="Horizontal"
+                                    HorizontalAlignment="Center"
+                                    VerticalAlignment="Center">
+                            <TextBox Grid.Column="1"
+                                     Height="24"
+                                     Grid.Row="1"
+                                     Width="100"
+                                     VerticalAlignment="Center"
+                                     Text="{Binding m043_XZ}"
+                                     HorizontalContentAlignment="Center" />
+                        </StackPanel>
+                    </Border>
+                    <!--第2行数据-->
+                    <Border BorderBrush="#FFBBB7B7"
+                            BorderThickness="0,0,0,1"
+                            Margin="0"
+                            Grid.RowSpan="1"
+                            Grid.Row="2"
+                            Grid.Column="0"
+                            Grid.ColumnSpan="1">
+                        <StackPanel Orientation="Horizontal"
+                                    HorizontalAlignment="Center"
+                                    VerticalAlignment="Center">
+                            <TextBlock  HorizontalAlignment="Center"
+                                        Margin="0"
+                                        Text="2"
+                                        VerticalAlignment="Center" />
+                        </StackPanel>
+                    </Border>
+                    <Border BorderBrush="#FFBBB7B7"
+                            BorderThickness="0,0,0,1"
+                            Margin="0"
+                            Grid.RowSpan="1"
+                            Grid.Row="2"
+                            Grid.Column="1"
+                            Grid.ColumnSpan="1">
+                        <StackPanel Orientation="Horizontal"
+                                    HorizontalAlignment="Center"
+                                    VerticalAlignment="Center">
+                            <TextBox Height="24"
+                                     Width="100"
+                                     VerticalAlignment="Center"
+                                     Text="{Binding m081_YL}"
+                                     HorizontalContentAlignment="Center" />
+                        </StackPanel>
+                    </Border>
+                    <Border BorderBrush="#FFBBB7B7"
+                            BorderThickness="0,0,0,1"
+                            Margin="0"
+                            Grid.RowSpan="1"
+                            Grid.Row="2"
+                            Grid.Column="2"
+                            Grid.ColumnSpan="1">
+                        <StackPanel Orientation="Horizontal"
+                                    HorizontalAlignment="Center"
+                                    VerticalAlignment="Center">
+                            <TextBox Grid.Column="1"
+                                     Height="24"
+                                     Grid.Row="1"
+                                     Width="100"
+                                     VerticalAlignment="Center"
+                                     Text="{Binding m083_XZ}"
+                                     HorizontalContentAlignment="Center" />
+                        </StackPanel>
+                    </Border>
+
+                    <!--第3行数据-->
+                    <Border BorderBrush="#FFBBB7B7"
+                            BorderThickness="0,0,0,1"
+                            Margin="0"
+                            Grid.RowSpan="1"
+                            Grid.Row="3"
+                            Grid.Column="0"
+                            Grid.ColumnSpan="1">
+                        <StackPanel Orientation="Horizontal"
+                                    HorizontalAlignment="Center"
+                                    VerticalAlignment="Center">
+                            <TextBlock  HorizontalAlignment="Center"
+                                        Margin="0"
+                                        Text="3"
+                                        VerticalAlignment="Center" />
+                        </StackPanel>
+                    </Border>
+                    <Border BorderBrush="#FFBBB7B7"
+                            BorderThickness="0,0,0,1"
+                            Margin="0"
+                            Grid.RowSpan="1"
+                            Grid.Row="3"
+                            Grid.Column="1"
+                            Grid.ColumnSpan="1">
+                        <StackPanel Orientation="Horizontal"
+                                    HorizontalAlignment="Center"
+                                    VerticalAlignment="Center">
+                            <TextBox Height="24"
+                                     Width="100"
+                                     VerticalAlignment="Center"
+                                     Text="{Binding m0C1_YL}"
+                                     HorizontalContentAlignment="Center" />
+                        </StackPanel>
+                    </Border>
+                    <Border BorderBrush="#FFBBB7B7"
+                            BorderThickness="0,0,0,1"
+                            Margin="0"
+                            Grid.RowSpan="1"
+                            Grid.Row="3"
+                            Grid.Column="2"
+                            Grid.ColumnSpan="1">
+                        <StackPanel Orientation="Horizontal"
+                                    HorizontalAlignment="Center"
+                                    VerticalAlignment="Center">
+                            <TextBox Grid.Column="1"
+                                     Height="24"
+                                     Grid.Row="1"
+                                     Width="100"
+                                     VerticalAlignment="Center"
+                                     Text="{Binding m0C3_XZ}"
+                                     HorizontalContentAlignment="Center" />
+                        </StackPanel>
+                    </Border>
+
+                    <!--第4行数据-->
+                    <Border BorderBrush="#FFBBB7B7"
+                            BorderThickness="0,0,0,1"
+                            Margin="0"
+                            Grid.RowSpan="1"
+                            Grid.Row="4"
+                            Grid.Column="0"
+                            Grid.ColumnSpan="1">
+                        <StackPanel Orientation="Horizontal"
+                                    HorizontalAlignment="Center"
+                                    VerticalAlignment="Center">
+                            <TextBlock  HorizontalAlignment="Center"
+                                        Margin="0"
+                                        Text="4"
+                                        VerticalAlignment="Center" />
+                        </StackPanel>
+                    </Border>
+                    <Border BorderBrush="#FFBBB7B7"
+                            BorderThickness="0,0,0,1"
+                            Margin="0"
+                            Grid.RowSpan="1"
+                            Grid.Row="4"
+                            Grid.Column="1"
+                            Grid.ColumnSpan="1">
+                        <StackPanel Orientation="Horizontal"
+                                    HorizontalAlignment="Center"
+                                    VerticalAlignment="Center">
+                            <TextBox Height="24"
+                                     Width="100"
+                                     VerticalAlignment="Center"
+                                     Text="{Binding m101_YL}"
+                                     HorizontalContentAlignment="Center" />
+                        </StackPanel>
+                    </Border>
+                    <Border BorderBrush="#FFBBB7B7"
+                            BorderThickness="0,0,0,1"
+                            Margin="0"
+                            Grid.RowSpan="1"
+                            Grid.Row="4"
+                            Grid.Column="2"
+                            Grid.ColumnSpan="1">
+                        <StackPanel Orientation="Horizontal"
+                                    HorizontalAlignment="Center"
+                                    VerticalAlignment="Center">
+                            <TextBox Grid.Column="1"
+                                     Height="24"
+                                     Grid.Row="1"
+                                     Width="100"
+                                     VerticalAlignment="Center"
+                                     Text="{Binding m103_XZ}"
+                                     HorizontalContentAlignment="Center" />
+                        </StackPanel>
+                    </Border>
+
+                    <!--第5行数据-->
+                    <Border BorderBrush="#FFBBB7B7"
+                            BorderThickness="0,0,0,1"
+                            Margin="0"
+                            Grid.RowSpan="1"
+                            Grid.Row="5"
+                            Grid.Column="0"
+                            Grid.ColumnSpan="1">
+                        <StackPanel Orientation="Horizontal"
+                                    HorizontalAlignment="Center"
+                                    VerticalAlignment="Center">
+                            <TextBlock  HorizontalAlignment="Center"
+                                        Margin="0"
+                                        Text="5"
+                                        VerticalAlignment="Center" />
+                        </StackPanel>
+                    </Border>
+                    <Border BorderBrush="#FFBBB7B7"
+                            BorderThickness="0,0,0,1"
+                            Margin="0"
+                            Grid.RowSpan="1"
+                            Grid.Row="5"
+                            Grid.Column="1"
+                            Grid.ColumnSpan="1">
+                        <StackPanel Orientation="Horizontal"
+                                    HorizontalAlignment="Center"
+                                    VerticalAlignment="Center">
+                            <TextBox Height="24"
+                                     Width="100"
+                                     VerticalAlignment="Center"
+                                     Text="{Binding m141_YL}"
+                                     HorizontalContentAlignment="Center" />
+                        </StackPanel>
+                    </Border>
+                    <Border BorderBrush="#FFBBB7B7"
+                            BorderThickness="0,0,0,1"
+                            Margin="0"
+                            Grid.RowSpan="1"
+                            Grid.Row="5"
+                            Grid.Column="2"
+                            Grid.ColumnSpan="1">
+                        <StackPanel Orientation="Horizontal"
+                                    HorizontalAlignment="Center"
+                                    VerticalAlignment="Center">
+                            <TextBox Grid.Column="1"
+                                     Height="24"
+                                     Grid.Row="1"
+                                     Width="100"
+                                     VerticalAlignment="Center"
+                                     Text="{Binding m143_XZ}"
+                                     HorizontalContentAlignment="Center" />
+                        </StackPanel>
+                    </Border>
+
+                    <!--第6行数据-->
+                    <Border BorderBrush="#FFBBB7B7"
+                            BorderThickness="0,0,0,1"
+                            Margin="0"
+                            Grid.RowSpan="1"
+                            Grid.Row="6"
+                            Grid.Column="0"
+                            Grid.ColumnSpan="1">
+                        <StackPanel Orientation="Horizontal"
+                                    HorizontalAlignment="Center"
+                                    VerticalAlignment="Center">
+                            <TextBlock  HorizontalAlignment="Center"
+                                        Margin="0"
+                                        Text="6"
+                                        VerticalAlignment="Center" />
+                        </StackPanel>
+                    </Border>
+                    <Border BorderBrush="#FFBBB7B7"
+                            BorderThickness="0,0,0,1"
+                            Margin="0"
+                            Grid.RowSpan="1"
+                            Grid.Row="6"
+                            Grid.Column="1"
+                            Grid.ColumnSpan="1">
+                        <StackPanel Orientation="Horizontal"
+                                    HorizontalAlignment="Center"
+                                    VerticalAlignment="Center">
+                            <TextBox Height="24"
+                                     Width="100"
+                                     VerticalAlignment="Center"
+                                     Text="{Binding m181_YL}"
+                                     HorizontalContentAlignment="Center" />
+                        </StackPanel>
+                    </Border>
+                    <Border BorderBrush="#FFBBB7B7"
+                            BorderThickness="0,0,0,1"
+                            Margin="0"
+                            Grid.RowSpan="1"
+                            Grid.Row="6"
+                            Grid.Column="2"
+                            Grid.ColumnSpan="1">
+                        <StackPanel Orientation="Horizontal"
+                                    HorizontalAlignment="Center"
+                                    VerticalAlignment="Center">
+                            <TextBox Grid.Column="1"
+                                     Height="24"
+                                     Grid.Row="1"
+                                     Width="100"
+                                     VerticalAlignment="Center"
+                                     Text="{Binding m183_XZ}"
+                                     HorizontalContentAlignment="Center" />
+                        </StackPanel>
+                    </Border>
+
+                    <!--第7行数据-->
+                    <Border BorderBrush="#FFBBB7B7"
+                            BorderThickness="0,0,0,1"
+                            Margin="0"
+                            Grid.RowSpan="1"
+                            Grid.Row="7"
+                            Grid.Column="0"
+                            Grid.ColumnSpan="1">
+                        <StackPanel Orientation="Horizontal"
+                                    HorizontalAlignment="Center"
+                                    VerticalAlignment="Center">
+                            <TextBlock  HorizontalAlignment="Center"
+                                        Margin="0"
+                                        Text="7"
+                                        VerticalAlignment="Center" />
+                        </StackPanel>
+                    </Border>
+                    <Border BorderBrush="#FFBBB7B7"
+                            BorderThickness="0,0,0,1"
+                            Margin="0"
+                            Grid.RowSpan="1"
+                            Grid.Row="7"
+                            Grid.Column="1"
+                            Grid.ColumnSpan="1">
+                        <StackPanel Orientation="Horizontal"
+                                    HorizontalAlignment="Center"
+                                    VerticalAlignment="Center">
+                            <TextBox Height="24"
+                                     Width="100"
+                                     VerticalAlignment="Center"
+                                     Text="{Binding m1C1_YL}"
+                                     HorizontalContentAlignment="Center" />
+                        </StackPanel>
+                    </Border>
+                    <Border BorderBrush="#FFBBB7B7"
+                            BorderThickness="0,0,0,1"
+                            Margin="0"
+                            Grid.RowSpan="1"
+                            Grid.Row="7"
+                            Grid.Column="2"
+                            Grid.ColumnSpan="1">
+                        <StackPanel Orientation="Horizontal"
+                                    HorizontalAlignment="Center"
+                                    VerticalAlignment="Center">
+                            <TextBox Grid.Column="1"
+                                     Height="24"
+                                     Grid.Row="1"
+                                     Width="100"
+                                     VerticalAlignment="Center"
+                                     Text="{Binding m1C3_XZ}"
+                                     HorizontalContentAlignment="Center" />
+                        </StackPanel>
+                    </Border>
+
+                    <!--第8行数据-->
+                    <Border BorderBrush="#FFBBB7B7"
+                            BorderThickness="0,0,0,1"
+                            Margin="0"
+                            Grid.RowSpan="1"
+                            Grid.Row="8"
+                            Grid.Column="0"
+                            Grid.ColumnSpan="1">
+                        <StackPanel Orientation="Horizontal"
+                                    HorizontalAlignment="Center"
+                                    VerticalAlignment="Center">
+                            <TextBlock  HorizontalAlignment="Center"
+                                        Margin="0"
+                                        Text="8"
+                                        VerticalAlignment="Center" />
+                        </StackPanel>
+                    </Border>
+                    <Border BorderBrush="#FFBBB7B7"
+                            BorderThickness="0,0,0,1"
+                            Margin="0"
+                            Grid.RowSpan="1"
+                            Grid.Row="8"
+                            Grid.Column="1"
+                            Grid.ColumnSpan="1">
+                        <StackPanel Orientation="Horizontal"
+                                    HorizontalAlignment="Center"
+                                    VerticalAlignment="Center">
+                            <TextBox Height="24"
+                                     Width="100"
+                                     VerticalAlignment="Center"
+                                     Text="{Binding m201_YL}"
+                                     HorizontalContentAlignment="Center" />
+                        </StackPanel>
+                    </Border>
+                    <Border BorderBrush="#FFBBB7B7"
+                            BorderThickness="0,0,0,1"
+                            Margin="0"
+                            Grid.RowSpan="1"
+                            Grid.Row="8"
+                            Grid.Column="2"
+                            Grid.ColumnSpan="1">
+                        <StackPanel Orientation="Horizontal"
+                                    HorizontalAlignment="Center"
+                                    VerticalAlignment="Center">
+                            <TextBox Grid.Column="1"
+                                     Height="24"
+                                     Grid.Row="1"
+                                     Width="100"
+                                     VerticalAlignment="Center"
+                                     Text="{Binding m203_XZ}"
+                                     HorizontalContentAlignment="Center" />
+                        </StackPanel>
+                    </Border>
+
+                    <!--第9行数据-->
+                    <Border BorderBrush="#FFBBB7B7"
+                            BorderThickness="0,0,0,1"
+                            Margin="0"
+                            Grid.RowSpan="1"
+                            Grid.Row="9"
+                            Grid.Column="0"
+                            Grid.ColumnSpan="1">
+                        <StackPanel Orientation="Horizontal"
+                                    HorizontalAlignment="Center"
+                                    VerticalAlignment="Center">
+                            <TextBlock  HorizontalAlignment="Center"
+                                        Margin="0"
+                                        Text="9"
+                                        VerticalAlignment="Center" />
+                        </StackPanel>
+                    </Border>
+                    <Border BorderBrush="#FFBBB7B7"
+                            BorderThickness="0,0,0,1"
+                            Margin="0"
+                            Grid.RowSpan="1"
+                            Grid.Row="9"
+                            Grid.Column="1"
+                            Grid.ColumnSpan="1">
+                        <StackPanel Orientation="Horizontal"
+                                    HorizontalAlignment="Center"
+                                    VerticalAlignment="Center">
+                            <TextBox Height="24"
+                                     Width="100"
+                                     VerticalAlignment="Center"
+                                     Text="{Binding m241_YL}"
+                                     HorizontalContentAlignment="Center" />
+                        </StackPanel>
+                    </Border>
+                    <Border BorderBrush="#FFBBB7B7"
+                            BorderThickness="0,0,0,1"
+                            Margin="0"
+                            Grid.RowSpan="1"
+                            Grid.Row="9"
+                            Grid.Column="2"
+                            Grid.ColumnSpan="1">
+                        <StackPanel Orientation="Horizontal"
+                                    HorizontalAlignment="Center"
+                                    VerticalAlignment="Center">
+                            <TextBox Grid.Column="1"
+                                     Height="24"
+                                     Grid.Row="1"
+                                     Width="100"
+                                     VerticalAlignment="Center"
+                                     Text="{Binding m243_XZ}"
+                                     HorizontalContentAlignment="Center" />
+                        </StackPanel>
+                    </Border>
+
+                    <!--第10行数据-->
+                    <Border BorderBrush="#FFBBB7B7"
+                            BorderThickness="0,0,0,1"
+                            Margin="0"
+                            Grid.RowSpan="1"
+                            Grid.Row="10"
+                            Grid.Column="0"
+                            Grid.ColumnSpan="1">
+                        <StackPanel Orientation="Horizontal"
+                                    HorizontalAlignment="Center"
+                                    VerticalAlignment="Center">
+                            <TextBlock  HorizontalAlignment="Center"
+                                        Margin="0"
+                                        Text="10"
+                                        VerticalAlignment="Center" />
+                        </StackPanel>
+                    </Border>
+                    <Border BorderBrush="#FFBBB7B7"
+                            BorderThickness="0,0,0,1"
+                            Margin="0"
+                            Grid.RowSpan="1"
+                            Grid.Row="10"
+                            Grid.Column="1"
+                            Grid.ColumnSpan="1">
+                        <StackPanel Orientation="Horizontal"
+                                    HorizontalAlignment="Center"
+                                    VerticalAlignment="Center">
+                            <TextBox Height="24"
+                                     Width="100"
+                                     VerticalAlignment="Center"
+                                     Text="{Binding m281_YL}"
+                                     HorizontalContentAlignment="Center" />
+                        </StackPanel>
+                    </Border>
+                    <Border BorderBrush="#FFBBB7B7"
+                            BorderThickness="0,0,0,1"
+                            Margin="0"
+                            Grid.RowSpan="1"
+                            Grid.Row="10"
+                            Grid.Column="2"
+                            Grid.ColumnSpan="1">
+                        <StackPanel Orientation="Horizontal"
+                                    HorizontalAlignment="Center"
+                                    VerticalAlignment="Center">
+                            <TextBox Grid.Column="1"
+                                     Height="24"
+                                     Grid.Row="1"
+                                     Width="100"
+                                     VerticalAlignment="Center"
+                                     Text="{Binding m283_XZ}"
+                                     HorizontalContentAlignment="Center" />
+                        </StackPanel>
+                    </Border>
+
+
+
+                    <!--标题-->
+                    <TextBlock Grid.Column="0"
+                               HorizontalAlignment="Center"
+                               Margin="0"
+                               Grid.Row="0"
+                               Text="{DynamicResource No1}"
+                               VerticalAlignment="Center"
+                               FontWeight="Bold"
+                               FontSize="12" />
+
+
+                    <TextBlock Grid.Column="1"
+                               HorizontalAlignment="Center"
+                               Margin="0"
+                               Grid.Row="0"
+                               Text="{DynamicResource Volume(ul)}"
+                               VerticalAlignment="Center"
+                               FontWeight="Bold"
+                               FontSize="12" />
+
+
+                    <TextBlock Grid.Column="2"
+                               HorizontalAlignment="Center"
+                               Margin="0"
+                               Grid.Row="0"
+                               Text="{DynamicResource Modified}"
+                               VerticalAlignment="Center"
+                               FontWeight="Bold"
+                               FontSize="12" />
+
+
+
+
+
+
+
+
+                </Grid>
+
+
+
+
+
+            </Border>
+
+            <Button Grid.Row="1"
+                Width="200"
+                    Height="60"
+                    Content="生成表格"
+                    Click="Button3_Click" />
+        </Grid>
+
+
+        <Button Width="200"
+                Height="60"
+                Content="生成"
+                Click="Button_Click"
+                Visibility="Collapsed" />
+    </Grid>
+</UserControl>

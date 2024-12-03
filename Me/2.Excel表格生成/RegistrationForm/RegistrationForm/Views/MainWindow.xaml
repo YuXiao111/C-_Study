@@ -1,0 +1,28 @@
+﻿<Window x:Class="RegistrationForm.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RegistrationForm"
+        mc:Ignorable="d"
+        xmlns:DCL="clr-namespace:RegistrationForm.DialControlLibrary"
+        Title="MainWindow"
+        Height="450"
+        Width="800"
+        WindowStartupLocation="CenterScreen"
+        Style="{StaticResource MaterialDesignWindow}"
+        TextElement.Foreground="{DynamicResource MaterialDesign.Brush.Foreground}"
+>
+    <Grid>
+        <!--<Button Width="200"
+                Height="60"
+                Click="Btn_Click"></Button>-->
+        <ScrollViewer  Name="scrollViewer"
+                       VerticalScrollBarVisibility="Visible"
+                       HorizontalScrollBarVisibility="Auto">
+            <DCL:GraduateRegistrationForm Width="auto"
+                                          Height="1050"/>
+        </ScrollViewer>
+
+    </Grid>
+</Window>
