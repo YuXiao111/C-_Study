@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.Net\\Git\u4ED3\u5E93\\C#Demo_Study\u3010git\u4ED3\u5E93\u3011\\Multitude\\C#_Advanced\\7.C#\u5B9E\u73B0SQLite\u589E\u5220\u6539\u67E5\\TestPasswordSqlite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1929BA30-0151-4446-B196-19934A444E1C}|TestPasswordSqlite\\TestPasswordSqlite.csproj|e:\\.net\\git\u4ED3\u5E93\\c#demo_study\u3010git\u4ED3\u5E93\u3011\\multitude\\c#_advanced\\7.c#\u5B9E\u73B0sqlite\u589E\u5220\u6539\u67E5\\testpasswordsqlite\\testpasswordsqlite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1929BA30-0151-4446-B196-19934A444E1C}|TestPasswordSqlite\\TestPasswordSqlite.csproj|solutionrelative:testpasswordsqlite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.Net\\Git\u4ED3\u5E93\\C#Demo_Study\u3010git\u4ED3\u5E93\u3011\\Multitude\\C#_Advanced\\7.C#\u5B9E\u73B0SQLite\u589E\u5220\u6539\u67E5\\TestPasswordSqlite\\TestPasswordSqlite\\Program.cs",
+              "RelativeDocumentMoniker": "TestPasswordSqlite\\Program.cs",
+              "ToolTip": "E:\\.Net\\Git\u4ED3\u5E93\\C#Demo_Study\u3010git\u4ED3\u5E93\u3011\\Multitude\\C#_Advanced\\7.C#\u5B9E\u73B0SQLite\u589E\u5220\u6539\u67E5\\TestPasswordSqlite\\TestPasswordSqlite\\Program.cs",
+              "RelativeToolTip": "TestPasswordSqlite\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAmwDwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:39:10.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

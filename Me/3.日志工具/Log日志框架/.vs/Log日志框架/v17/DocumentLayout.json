@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.Net\\Git\u4ED3\u5E93\\C#Demo_Study\u3010git\u4ED3\u5E93\u3011\\Me\\3.\u65E5\u5FD7\u5DE5\u5177\\Log\u65E5\u5FD7\u6846\u67B6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B59E300-BC13-4C24-B493-401F584D7631}|Log\u65E5\u5FD7\u6846\u67B6\\Log\u65E5\u5FD7\u6846\u67B6.csproj|e:\\.net\\git\u4ED3\u5E93\\c#demo_study\u3010git\u4ED3\u5E93\u3011\\me\\3.\u65E5\u5FD7\u5DE5\u5177\\log\u65E5\u5FD7\u6846\u67B6\\log\u65E5\u5FD7\u6846\u67B6\\util\\loghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B59E300-BC13-4C24-B493-401F584D7631}|Log\u65E5\u5FD7\u6846\u67B6\\Log\u65E5\u5FD7\u6846\u67B6.csproj|solutionrelative:log\u65E5\u5FD7\u6846\u67B6\\util\\loghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B59E300-BC13-4C24-B493-401F584D7631}|Log\u65E5\u5FD7\u6846\u67B6\\Log\u65E5\u5FD7\u6846\u67B6.csproj|e:\\.net\\git\u4ED3\u5E93\\c#demo_study\u3010git\u4ED3\u5E93\u3011\\me\\3.\u65E5\u5FD7\u5DE5\u5177\\log\u65E5\u5FD7\u6846\u67B6\\log\u65E5\u5FD7\u6846\u67B6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B59E300-BC13-4C24-B493-401F584D7631}|Log\u65E5\u5FD7\u6846\u67B6\\Log\u65E5\u5FD7\u6846\u67B6.csproj|solutionrelative:log\u65E5\u5FD7\u6846\u67B6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B59E300-BC13-4C24-B493-401F584D7631}|Log\u65E5\u5FD7\u6846\u67B6\\Log\u65E5\u5FD7\u6846\u67B6.csproj|e:\\.net\\git\u4ED3\u5E93\\c#demo_study\u3010git\u4ED3\u5E93\u3011\\me\\3.\u65E5\u5FD7\u5DE5\u5177\\log\u65E5\u5FD7\u6846\u67B6\\log\u65E5\u5FD7\u6846\u67B6\\util\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7B59E300-BC13-4C24-B493-401F584D7631}|Log\u65E5\u5FD7\u6846\u67B6\\Log\u65E5\u5FD7\u6846\u67B6.csproj|solutionrelative:log\u65E5\u5FD7\u6846\u67B6\\util\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B59E300-BC13-4C24-B493-401F584D7631}|Log\u65E5\u5FD7\u6846\u67B6\\Log\u65E5\u5FD7\u6846\u67B6.csproj|e:\\.net\\git\u4ED3\u5E93\\c#demo_study\u3010git\u4ED3\u5E93\u3011\\me\\3.\u65E5\u5FD7\u5DE5\u5177\\log\u65E5\u5FD7\u6846\u67B6\\log\u65E5\u5FD7\u6846\u67B6\\log\u65E5\u5FD7\u6846\u67B6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B59E300-BC13-4C24-B493-401F584D7631}|Log\u65E5\u5FD7\u6846\u67B6\\Log\u65E5\u5FD7\u6846\u67B6.csproj|solutionrelative:log\u65E5\u5FD7\u6846\u67B6\\log\u65E5\u5FD7\u6846\u67B6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B59E300-BC13-4C24-B493-401F584D7631}|Log\u65E5\u5FD7\u6846\u67B6\\Log\u65E5\u5FD7\u6846\u67B6.csproj|e:\\.net\\git\u4ED3\u5E93\\c#demo_study\u3010git\u4ED3\u5E93\u3011\\me\\3.\u65E5\u5FD7\u5DE5\u5177\\log\u65E5\u5FD7\u6846\u67B6\\log\u65E5\u5FD7\u6846\u67B6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7B59E300-BC13-4C24-B493-401F584D7631}|Log\u65E5\u5FD7\u6846\u67B6\\Log\u65E5\u5FD7\u6846\u67B6.csproj|solutionrelative:log\u65E5\u5FD7\u6846\u67B6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\.Net\\Git\u4ED3\u5E93\\C#Demo_Study\u3010git\u4ED3\u5E93\u3011\\Me\\3.\u65E5\u5FD7\u5DE5\u5177\\Log\u65E5\u5FD7\u6846\u67B6\\Log\u65E5\u5FD7\u6846\u67B6\\Util\\App.config",
+              "RelativeDocumentMoniker": "Log\u65E5\u5FD7\u6846\u67B6\\Util\\App.config",
+              "ToolTip": "E:\\.Net\\Git\u4ED3\u5E93\\C#Demo_Study\u3010git\u4ED3\u5E93\u3011\\Me\\3.\u65E5\u5FD7\u5DE5\u5177\\Log\u65E5\u5FD7\u6846\u67B6\\Log\u65E5\u5FD7\u6846\u67B6\\Util\\App.config",
+              "RelativeToolTip": "Log\u65E5\u5FD7\u6846\u67B6\\Util\\App.config",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-04T15:13:01.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogHelper.cs",
+              "DocumentMoniker": "E:\\.Net\\Git\u4ED3\u5E93\\C#Demo_Study\u3010git\u4ED3\u5E93\u3011\\Me\\3.\u65E5\u5FD7\u5DE5\u5177\\Log\u65E5\u5FD7\u6846\u67B6\\Log\u65E5\u5FD7\u6846\u67B6\\Util\\LogHelper.cs",
+              "RelativeDocumentMoniker": "Log\u65E5\u5FD7\u6846\u67B6\\Util\\LogHelper.cs",
+              "ToolTip": "E:\\.Net\\Git\u4ED3\u5E93\\C#Demo_Study\u3010git\u4ED3\u5E93\u3011\\Me\\3.\u65E5\u5FD7\u5DE5\u5177\\Log\u65E5\u5FD7\u6846\u67B6\\Log\u65E5\u5FD7\u6846\u67B6\\Util\\LogHelper.cs",
+              "RelativeToolTip": "Log\u65E5\u5FD7\u6846\u67B6\\Util\\LogHelper.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:58:44.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Log\u65E5\u5FD7\u6846\u67B6",
+              "DocumentMoniker": "E:\\.Net\\Git\u4ED3\u5E93\\C#Demo_Study\u3010git\u4ED3\u5E93\u3011\\Me\\3.\u65E5\u5FD7\u5DE5\u5177\\Log\u65E5\u5FD7\u6846\u67B6\\Log\u65E5\u5FD7\u6846\u67B6\\Log\u65E5\u5FD7\u6846\u67B6.csproj",
+              "RelativeDocumentMoniker": "Log\u65E5\u5FD7\u6846\u67B6\\Log\u65E5\u5FD7\u6846\u67B6.csproj",
+              "ToolTip": "E:\\.Net\\Git\u4ED3\u5E93\\C#Demo_Study\u3010git\u4ED3\u5E93\u3011\\Me\\3.\u65E5\u5FD7\u5DE5\u5177\\Log\u65E5\u5FD7\u6846\u67B6\\Log\u65E5\u5FD7\u6846\u67B6\\Log\u65E5\u5FD7\u6846\u67B6.csproj",
+              "RelativeToolTip": "Log\u65E5\u5FD7\u6846\u67B6\\Log\u65E5\u5FD7\u6846\u67B6.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T14:47:43.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\.Net\\Git\u4ED3\u5E93\\C#Demo_Study\u3010git\u4ED3\u5E93\u3011\\Me\\3.\u65E5\u5FD7\u5DE5\u5177\\Log\u65E5\u5FD7\u6846\u67B6\\Log\u65E5\u5FD7\u6846\u67B6\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Log\u65E5\u5FD7\u6846\u67B6\\MainWindow.xaml",
+              "ToolTip": "E:\\.Net\\Git\u4ED3\u5E93\\C#Demo_Study\u3010git\u4ED3\u5E93\u3011\\Me\\3.\u65E5\u5FD7\u5DE5\u5177\\Log\u65E5\u5FD7\u6846\u67B6\\Log\u65E5\u5FD7\u6846\u67B6\\MainWindow.xaml",
+              "RelativeToolTip": "Log\u65E5\u5FD7\u6846\u67B6\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-04T14:18:47.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\.Net\\Git\u4ED3\u5E93\\C#Demo_Study\u3010git\u4ED3\u5E93\u3011\\Me\\3.\u65E5\u5FD7\u5DE5\u5177\\Log\u65E5\u5FD7\u6846\u67B6\\Log\u65E5\u5FD7\u6846\u67B6\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Log\u65E5\u5FD7\u6846\u67B6\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\.Net\\Git\u4ED3\u5E93\\C#Demo_Study\u3010git\u4ED3\u5E93\u3011\\Me\\3.\u65E5\u5FD7\u5DE5\u5177\\Log\u65E5\u5FD7\u6846\u67B6\\Log\u65E5\u5FD7\u6846\u67B6\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Log\u65E5\u5FD7\u6846\u67B6\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA3wBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:18:43.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

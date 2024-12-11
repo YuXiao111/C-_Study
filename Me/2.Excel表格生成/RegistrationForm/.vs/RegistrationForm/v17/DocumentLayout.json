@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\.Net\\Git\u4ED3\u5E93\\C#Demo_Study\u3010git\u4ED3\u5E93\u3011\\Me\\2.Excel\u8868\u683C\u751F\u6210\\RegistrationForm\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D4F85E60-9094-4571-94AB-2B7F84E55A93}|RegistrationForm\\RegistrationForm.csproj|e:\\.net\\git\u4ED3\u5E93\\c#demo_study\u3010git\u4ED3\u5E93\u3011\\me\\2.excel\u8868\u683C\u751F\u6210\\registrationform\\registrationform\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F85E60-9094-4571-94AB-2B7F84E55A93}|RegistrationForm\\RegistrationForm.csproj|solutionrelative:registrationform\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A588BBAB-CA7F-459A-BB72-B34EE7507C14}|TemplateRegistrationForm\\TemplateRegistrationForm.csproj|e:\\.net\\git\u4ED3\u5E93\\c#demo_study\u3010git\u4ED3\u5E93\u3011\\me\\2.excel\u8868\u683C\u751F\u6210\\registrationform\\templateregistrationform\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A588BBAB-CA7F-459A-BB72-B34EE7507C14}|TemplateRegistrationForm\\TemplateRegistrationForm.csproj|solutionrelative:templateregistrationform\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +30,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\.Net\\Git\u4ED3\u5E93\\C#Demo_Study\u3010git\u4ED3\u5E93\u3011\\Me\\2.Excel\u8868\u683C\u751F\u6210\\RegistrationForm\\RegistrationForm\\App.xaml.cs",
+              "RelativeDocumentMoniker": "RegistrationForm\\App.xaml.cs",
+              "ToolTip": "E:\\.Net\\Git\u4ED3\u5E93\\C#Demo_Study\u3010git\u4ED3\u5E93\u3011\\Me\\2.Excel\u8868\u683C\u751F\u6210\\RegistrationForm\\RegistrationForm\\App.xaml.cs",
+              "RelativeToolTip": "RegistrationForm\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:34:39.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "E:\\.Net\\Git\u4ED3\u5E93\\C#Demo_Study\u3010git\u4ED3\u5E93\u3011\\Me\\2.Excel\u8868\u683C\u751F\u6210\\RegistrationForm\\TemplateRegistrationForm\\MainWindow.xaml",
               "RelativeDocumentMoniker": "TemplateRegistrationForm\\MainWindow.xaml",
@@ -37,13 +54,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "E:\\.Net\\Git\u4ED3\u5E93\\C#Demo_Study\u3010git\u4ED3\u5E93\u3011\\Me\\2.Excel\u8868\u683C\u751F\u6210\\RegistrationForm\\TemplateRegistrationForm\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "TemplateRegistrationForm\\MainWindow.xaml.cs",
               "ToolTip": "E:\\.Net\\Git\u4ED3\u5E93\\C#Demo_Study\u3010git\u4ED3\u5E93\u3011\\Me\\2.Excel\u8868\u683C\u751F\u6210\\RegistrationForm\\TemplateRegistrationForm\\MainWindow.xaml.cs",
               "RelativeToolTip": "TemplateRegistrationForm\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA5wBgAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwBgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T14:17:46.866Z",
               "EditorCaption": ""

@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.Net\\Git\u4ED3\u5E93\\C#Demo_Study\u3010git\u4ED3\u5E93\u3011\\Me\\4.Json\u5B66\u4E60\\WpfAppToJson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{220FA530-B10D-4224-98D8-E172AE663777}|WpfAppToJson\\WpfAppToJson.csproj|e:\\.net\\git\u4ED3\u5E93\\c#demo_study\u3010git\u4ED3\u5E93\u3011\\me\\4.json\u5B66\u4E60\\wpfapptojson\\wpfapptojson\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{220FA530-B10D-4224-98D8-E172AE663777}|WpfAppToJson\\WpfAppToJson.csproj|solutionrelative:wpfapptojson\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{220FA530-B10D-4224-98D8-E172AE663777}|WpfAppToJson\\WpfAppToJson.csproj|e:\\.net\\git\u4ED3\u5E93\\c#demo_study\u3010git\u4ED3\u5E93\u3011\\me\\4.json\u5B66\u4E60\\wpfapptojson\\wpfapptojson\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{220FA530-B10D-4224-98D8-E172AE663777}|WpfAppToJson\\WpfAppToJson.csproj|solutionrelative:wpfapptojson\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{220FA530-B10D-4224-98D8-E172AE663777}|WpfAppToJson\\WpfAppToJson.csproj|e:\\.net\\git\u4ED3\u5E93\\c#demo_study\u3010git\u4ED3\u5E93\u3011\\me\\4.json\u5B66\u4E60\\wpfapptojson\\wpfapptojson\\readandwrite.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{220FA530-B10D-4224-98D8-E172AE663777}|WpfAppToJson\\WpfAppToJson.csproj|solutionrelative:wpfapptojson\\readandwrite.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{220FA530-B10D-4224-98D8-E172AE663777}|WpfAppToJson\\WpfAppToJson.csproj|e:\\.net\\git\u4ED3\u5E93\\c#demo_study\u3010git\u4ED3\u5E93\u3011\\me\\4.json\u5B66\u4E60\\wpfapptojson\\wpfapptojson\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{220FA530-B10D-4224-98D8-E172AE663777}|WpfAppToJson\\WpfAppToJson.csproj|solutionrelative:wpfapptojson\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{220FA530-B10D-4224-98D8-E172AE663777}|WpfAppToJson\\WpfAppToJson.csproj|e:\\.net\\git\u4ED3\u5E93\\c#demo_study\u3010git\u4ED3\u5E93\u3011\\me\\4.json\u5B66\u4E60\\wpfapptojson\\wpfapptojson\\readandwrite.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{220FA530-B10D-4224-98D8-E172AE663777}|WpfAppToJson\\WpfAppToJson.csproj|solutionrelative:wpfapptojson\\readandwrite.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReadAndWrite.xaml",
+              "DocumentMoniker": "E:\\.Net\\Git\u4ED3\u5E93\\C#Demo_Study\u3010git\u4ED3\u5E93\u3011\\Me\\4.Json\u5B66\u4E60\\WpfAppToJson\\WpfAppToJson\\ReadAndWrite.xaml",
+              "RelativeDocumentMoniker": "WpfAppToJson\\ReadAndWrite.xaml",
+              "ToolTip": "E:\\.Net\\Git\u4ED3\u5E93\\C#Demo_Study\u3010git\u4ED3\u5E93\u3011\\Me\\4.Json\u5B66\u4E60\\WpfAppToJson\\WpfAppToJson\\ReadAndWrite.xaml",
+              "RelativeToolTip": "WpfAppToJson\\ReadAndWrite.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T11:54:53.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\.Net\\Git\u4ED3\u5E93\\C#Demo_Study\u3010git\u4ED3\u5E93\u3011\\Me\\4.Json\u5B66\u4E60\\WpfAppToJson\\WpfAppToJson\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppToJson\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\.Net\\Git\u4ED3\u5E93\\C#Demo_Study\u3010git\u4ED3\u5E93\u3011\\Me\\4.Json\u5B66\u4E60\\WpfAppToJson\\WpfAppToJson\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfAppToJson\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAE8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:20:04.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\.Net\\Git\u4ED3\u5E93\\C#Demo_Study\u3010git\u4ED3\u5E93\u3011\\Me\\4.Json\u5B66\u4E60\\WpfAppToJson\\WpfAppToJson\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfAppToJson\\MainWindow.xaml",
+              "ToolTip": "E:\\.Net\\Git\u4ED3\u5E93\\C#Demo_Study\u3010git\u4ED3\u5E93\u3011\\Me\\4.Json\u5B66\u4E60\\WpfAppToJson\\WpfAppToJson\\MainWindow.xaml",
+              "RelativeToolTip": "WpfAppToJson\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T11:20:05.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReadAndWrite.xaml.cs",
+              "DocumentMoniker": "E:\\.Net\\Git\u4ED3\u5E93\\C#Demo_Study\u3010git\u4ED3\u5E93\u3011\\Me\\4.Json\u5B66\u4E60\\WpfAppToJson\\WpfAppToJson\\ReadAndWrite.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppToJson\\ReadAndWrite.xaml.cs",
+              "ToolTip": "E:\\.Net\\Git\u4ED3\u5E93\\C#Demo_Study\u3010git\u4ED3\u5E93\u3011\\Me\\4.Json\u5B66\u4E60\\WpfAppToJson\\WpfAppToJson\\ReadAndWrite.xaml.cs",
+              "RelativeToolTip": "WpfAppToJson\\ReadAndWrite.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:58:09.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\.Net\\Git\u4ED3\u5E93\\C#Demo_Study\u3010git\u4ED3\u5E93\u3011\\Me\\4.Json\u5B66\u4E60\\WpfAppToJson\\WpfAppToJson\\App.xaml",
+              "RelativeDocumentMoniker": "WpfAppToJson\\App.xaml",
+              "ToolTip": "E:\\.Net\\Git\u4ED3\u5E93\\C#Demo_Study\u3010git\u4ED3\u5E93\u3011\\Me\\4.Json\u5B66\u4E60\\WpfAppToJson\\WpfAppToJson\\App.xaml",
+              "RelativeToolTip": "WpfAppToJson\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T12:12:51.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+记录时间：2024-12-04 23:13:46,440    线程ID：[1]    日志级别：INFO  
+出错类：Log日志框架.MainWindow    属性：[UserName：(null)] 
+日志描述：输出日志信息。
+ 
+记录时间：2024-12-04 23:17:21,777    线程ID：[1]    日志级别：INFO  
+出错类：Log日志框架.MainWindow    属性：[UserName：(null)] 
+日志描述：点击按钮2错误。
+ 
+记录时间：2024-12-04 23:18:16,922    线程ID：[1]    日志级别：INFO  
+出错类：Log日志框架.MainWindow    属性：[UserName：(null)] 
+日志描述：点击按钮3错误。
+ 
+记录时间：2024-12-04 23:18:18,647    线程ID：[1]    日志级别：INFO  
+出错类：Log日志框架.MainWindow    属性：[UserName：(null)] 
+日志描述：点击按钮4错误。
+ 
+记录时间：2024-12-04 23:18:19,185    线程ID：[1]    日志级别：INFO  
+出错类：Log日志框架.MainWindow    属性：[UserName：(null)] 
+日志描述：点击按钮5错误。
+ 
+记录时间：2024-12-04 23:18:19,665    线程ID：[1]    日志级别：INFO  
+出错类：Log日志框架.MainWindow    属性：[UserName：(null)] 
+日志描述：点击按钮6错误。
+ 
+记录时间：2024-12-04 23:21:18,031    线程ID：[1]    日志级别：INFO  
+出错类：Log日志框架.MainWindow    属性：[UserName：(null)] 
+日志描述：点击按钮5错误。
+ 
+记录时间：2024-12-04 23:21:18,624    线程ID：[1]    日志级别：INFO  
+出错类：Log日志框架.MainWindow    属性：[UserName：(null)] 
+日志描述：点击按钮6错误。
+ 
+记录时间：2024-12-04 23:28:31,625    线程ID：[1]    日志级别：DEBUG 
+出错类：Log日志框架.MainWindow    属性：[UserName：(null)] 
+日志描述：点击按钮1错误。
+ 
+记录时间：2024-12-04 23:28:32,816    线程ID：[1]    日志级别：DEBUG 
+出错类：Log日志框架.MainWindow    属性：[UserName：(null)] 
+日志描述：点击按钮2错误。
+ 
+记录时间：2024-12-04 23:28:33,416    线程ID：[1]    日志级别：INFO  
+出错类：Log日志框架.MainWindow    属性：[UserName：(null)] 
+日志描述：点击按钮3错误。
+ 
+记录时间：2024-12-04 23:28:33,962    线程ID：[1]    日志级别：WARN  
+出错类：Log日志框架.MainWindow    属性：[UserName：(null)] 
+日志描述：点击按钮4错误。
+ 
+记录时间：2024-12-04 23:28:34,448    线程ID：[1]    日志级别：ERROR 
+出错类：Log日志框架.MainWindow    属性：[UserName：(null)] 
+日志描述：点击按钮5错误。
+ 
+记录时间：2024-12-04 23:28:34,920    线程ID：[1]    日志级别：FATAL 
+出错类：Log日志框架.MainWindow    属性：[UserName：(null)] 
+日志描述：点击按钮6错误。
+ 
