@@ -1,0 +1,10 @@
+bin\Debug\SQLiteView.exe
+bin\Debug\SQLiteView.pdb
+bin\Debug\System.Data.SQLite.dll
+bin\Debug\System.Data.SQLite.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SQLiteView.Form1.resources
+obj\Debug\SQLiteView.Properties.Resources.resources
+obj\Debug\SQLiteView.csproj.GenerateResource.Cache
+obj\Debug\SQLiteView.exe
+obj\Debug\SQLiteView.pdb

@@ -1,0 +1,9 @@
+E:\项目\未分类\SQLiteView\SQLiteView\obj\Debug\SQLiteView.exe
+E:\项目\未分类\SQLiteView\SQLiteView\obj\Debug\SQLiteView.pdb
+E:\项目\未分类\SQLiteView\SQLiteView\bin\Debug\SQLiteView.exe
+E:\项目\未分类\SQLiteView\SQLiteView\bin\Debug\SQLiteView.pdb
+E:\项目\未分类\SQLiteView\SQLiteView\bin\Debug\System.Data.SQLite.xml
+E:\项目\未分类\SQLiteView\SQLiteView\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\未分类\SQLiteView\SQLiteView\obj\Debug\SQLiteView.Form1.resources
+E:\项目\未分类\SQLiteView\SQLiteView\obj\Debug\SQLiteView.Properties.Resources.resources
+E:\项目\未分类\SQLiteView\SQLiteView\obj\Debug\SQLiteView.csproj.GenerateResource.Cache

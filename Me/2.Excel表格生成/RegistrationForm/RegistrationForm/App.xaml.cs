@@ -13,6 +13,7 @@ namespace RegistrationForm
     {
         protected override Window CreateShell()
         {
+           Models.DB_Helper.CreateSql();
             return Container.Resolve<Views.MainWindow>();
         }
 

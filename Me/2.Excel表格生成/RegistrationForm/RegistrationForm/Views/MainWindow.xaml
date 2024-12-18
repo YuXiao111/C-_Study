@@ -14,15 +14,24 @@
         TextElement.Foreground="{DynamicResource MaterialDesign.Brush.Foreground}"
 >
     <Grid>
+        <TabControl>
+            <TabItem Header="首页">
+                <DCL:StudentPage Width="600"
+                                  Height="400" />
+            </TabItem>
+            <TabItem Header="第二页">
+                <DCL:SelectStudent/>
+            </TabItem>
+        </TabControl>
         <!--<Button Width="200"
                 Height="60"
                 Click="Btn_Click"></Button>-->
-        <ScrollViewer  Name="scrollViewer"
+        <!--<ScrollViewer  Name="scrollViewer"
                        VerticalScrollBarVisibility="Visible"
                        HorizontalScrollBarVisibility="Auto">
             <DCL:GraduateRegistrationForm Width="auto"
                                           Height="1050"/>
-        </ScrollViewer>
+        </ScrollViewer>-->
 
     </Grid>
 </Window>

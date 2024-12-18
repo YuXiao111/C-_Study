@@ -72,8 +72,7 @@ namespace RegistrationForm.DialControlLibrary {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/RegistrationForm;V1.0.0.0;component/dialcontrollibrary/graduateregistrationform." +
-                    "xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/RegistrationForm;component/dialcontrollibrary/graduateregistrationform.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\DialControlLibrary\GraduateRegistrationForm.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

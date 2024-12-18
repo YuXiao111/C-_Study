@@ -1,0 +1,101 @@
+﻿<UserControl x:Class="RegistrationForm.DialControlLibrary.StudentPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:RegistrationForm.DialControlLibrary"
+      Height="450"
+      Width="600">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal"
+                    VerticalAlignment="Center"
+                    HorizontalAlignment="Center">
+            <TextBlock Text="安徽师范大学毕业生表格"
+                       VerticalAlignment="Center"
+                       FontSize="25"
+                       FontWeight="Bold" />
+
+        </StackPanel>
+        <StackPanel Orientation="Horizontal"
+                    VerticalAlignment="Center"
+                    Grid.Row="1">
+            <TextBlock Text="姓名："
+                       VerticalAlignment="Center" />
+            <TextBox x:Name="NameText"
+                     Width="200"
+                     Height="30" />
+
+            <TextBlock Text="性别："
+                       VerticalAlignment="Center" />
+            <ComboBox x:Name="SexText"
+                      Width="200"
+                      Height="30">
+                <ComboBoxItem Name="Sex1"
+                              IsSelected="True">男</ComboBoxItem>
+                <ComboBoxItem Name="Sex2">女</ComboBoxItem>
+            </ComboBox>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal"
+                    VerticalAlignment="Center"
+                    Grid.Row="2">
+            <TextBlock Text="曾用名："
+                       VerticalAlignment="Center" />
+            <TextBox x:Name="Name2Text"
+                     Width="200"
+                     Height="30" />
+
+            <TextBlock Text="出生年月日："
+                       VerticalAlignment="Center" />
+            <DatePicker x:Name="BithdayText"
+                        Width="200"
+                        Height="30" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal"
+                    VerticalAlignment="Center"
+                    Grid.Row="3">
+            <TextBlock Text="民族："
+                       VerticalAlignment="Center" />
+            <TextBox x:Name="minzuText"
+                     Width="200"
+                     Height="30" />
+
+            <TextBlock Text="政治面貌："
+                       VerticalAlignment="Center" />
+            <TextBox x:Name="zzText"
+                     Width="200"
+                     Height="30" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal"
+                    VerticalAlignment="Center"
+                    Grid.Row="4">
+            <TextBlock Text="籍贯："
+                       VerticalAlignment="Center" />
+            <TextBox x:Name="jiguanText"
+                     Width="200"
+                     Height="30" />
+
+            <TextBlock Text="健康状况："
+                       VerticalAlignment="Center" />
+            <TextBox x:Name="jkText"
+                     Width="200"
+                     Height="30" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal"
+                    Grid.Row="5"
+                    HorizontalAlignment="Center">
+            <Button Width="200"
+                    Height="60"
+                    Content="生成Excel表格"
+                    Click="Button_Click" />
+        </StackPanel>
+
+    </Grid>
+</UserControl>

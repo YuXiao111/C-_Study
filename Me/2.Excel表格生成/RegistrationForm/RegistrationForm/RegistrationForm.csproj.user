@@ -10,9 +10,21 @@
     <Compile Update="DialControlLibrary\GraduateRegistrationForm.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="DialControlLibrary\SelectStudent.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DialControlLibrary\StudentPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Page Update="DialControlLibrary\GraduateRegistrationForm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DialControlLibrary\SelectStudent.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DialControlLibrary\StudentPage.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Views\MainWindow.xaml">
