@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SqliteForDotNet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+375464d7b925013aa8098c171dfa5857699acb43")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ddd0a8f6373c46679c308d7fe19400017d0e530")]
 [assembly: System.Reflection.AssemblyProductAttribute("SqliteForDotNet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SqliteForDotNet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

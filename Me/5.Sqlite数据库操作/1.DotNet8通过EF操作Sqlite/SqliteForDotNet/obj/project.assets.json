@@ -1281,11 +1281,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\.Net\\Git仓库\\C#Demo_Study【git仓库】\\Me\\5.Sqlite数据库操作\\SqliteForDotNet\\SqliteForDotNet\\SqliteForDotNet.csproj",
+      "projectUniqueName": "E:\\.Net\\Git仓库\\C#Demo_Study【git仓库】\\Me\\5.Sqlite数据库操作\\1.DotNet8通过EF操作Sqlite\\SqliteForDotNet\\SqliteForDotNet.csproj",
       "projectName": "SqliteForDotNet",
-      "projectPath": "E:\\.Net\\Git仓库\\C#Demo_Study【git仓库】\\Me\\5.Sqlite数据库操作\\SqliteForDotNet\\SqliteForDotNet\\SqliteForDotNet.csproj",
+      "projectPath": "E:\\.Net\\Git仓库\\C#Demo_Study【git仓库】\\Me\\5.Sqlite数据库操作\\1.DotNet8通过EF操作Sqlite\\SqliteForDotNet\\SqliteForDotNet.csproj",
       "packagesPath": "C:\\Users\\YuXia\\.nuget\\packages\\",
-      "outputPath": "E:\\.Net\\Git仓库\\C#Demo_Study【git仓库】\\Me\\5.Sqlite数据库操作\\SqliteForDotNet\\SqliteForDotNet\\obj\\",
+      "outputPath": "E:\\.Net\\Git仓库\\C#Demo_Study【git仓库】\\Me\\5.Sqlite数据库操作\\1.DotNet8通过EF操作Sqlite\\SqliteForDotNet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\WindowsAPP\\VS2022\\Shared\\NuGetPackages"

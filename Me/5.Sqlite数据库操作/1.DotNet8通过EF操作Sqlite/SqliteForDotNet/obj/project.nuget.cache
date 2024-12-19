@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zGPJl2XjZ8Q=",
+  "dgSpecHash": "HSrzFssrmu8=",
   "success": true,
-  "projectFilePath": "E:\\.Net\\Git仓库\\C#Demo_Study【git仓库】\\Me\\5.Sqlite数据库操作\\SqliteForDotNet\\SqliteForDotNet\\SqliteForDotNet.csproj",
+  "projectFilePath": "E:\\.Net\\Git仓库\\C#Demo_Study【git仓库】\\Me\\5.Sqlite数据库操作\\1.DotNet8通过EF操作Sqlite\\SqliteForDotNet\\SqliteForDotNet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\YuXia\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.0\\microsoft.data.sqlite.core.9.0.0.nupkg.sha512",
     "C:\\Users\\YuXia\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0\\microsoft.entityframeworkcore.9.0.0.nupkg.sha512",
